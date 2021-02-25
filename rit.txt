@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A00B-F304
+
+ Directory of C:\Users\RS57532\Desktop\My_Project
+
+02/25/2021  02:53 PM    <DIR>          .
+02/25/2021  02:53 PM    <DIR>          ..
+02/25/2021  02:53 PM                 0 rit.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  69,064,208,384 bytes free
